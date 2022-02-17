@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# 💙 Stak Man is 🥊
+__This is my Favorite *Food*__
+1. Banana 🍌
+2. Drinks 🍹
